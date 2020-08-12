@@ -13,7 +13,7 @@ I use JavaScript to build this app and I get a good result for continue improvin
 One day the voice controller using cellphone will be helpful to control a lot of items and also electrics tools simple as staring a coffee machine the TV or turn the light on, this is the importance of this application because understand that also the technology is improving show that the coding has to improve as well.
 
 ## Ui master
-master grid and display in Card for the information to be a better display
+Master grid and display in Card for the information to be a better display, in the chat and it work better when you desean for the chat, and get a conversation as smooth as possible!
 
 ## NPM
 npm command to start the app and open it using the React tool.
