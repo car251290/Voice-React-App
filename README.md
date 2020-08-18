@@ -7,6 +7,7 @@ I didn’t know just how easy it was to add a voice assistant to an existing app
 
 linking to the Alan Ai application:
 https://alan.app
+About the applicationyour App’s UI to support any conversation or workflow
 
 # Why you need a voice assistant in your app
 
