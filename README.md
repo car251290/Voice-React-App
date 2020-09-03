@@ -1,6 +1,7 @@
 ## Voice-controller-React-App
 
 Using React and the source Alan Ai, build a voice controller
+for amking it better functionality this App will be test it on my phone and I will update it.
 ## Alan Ai plataform voice tool
 
 I didn’t know just how easy it was to add a voice assistant to an existing application before using Alan. The voice script templates in Alan Studio made creating the use flows faster. And the built-in debugging and automated testing tools helped us iterate quickly on the experience.
