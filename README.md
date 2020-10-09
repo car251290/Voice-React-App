@@ -1,5 +1,5 @@
 ## Voice-controller-React-App
-Using React and the source Alan Ai, build a voice controller for it better functionality this App will be testing it on my phone and I will update it.
+Using React and the source Alan Ai, build a voice controller for it better functionality, will be testing on my phone and I will update it.
 
 ## Alan Ai plataform voice tool
 
