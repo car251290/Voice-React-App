@@ -14,12 +14,13 @@ const alanKey = '7dc620ff001075e69bb4920815e93c502e956eca572e1d8b807a3e2338fdd0d
 const App = () => {
     const [newArticles, setNewsArticles] = useState([]);
     const [newArticles,setArticles]= useState([]);
-    const [isOpen,setIsOpen]=useState([]);
+    const [isOpen,setIsOpen]= useState([]);
 
     const classes = useStyles();
 
-    useEffect(()=> {
+    useEffect( () => {
         alanBtn({
+            //The Api URL
             key : '7dc620ff001075e69bb4920815e93c502e956eca572e1d8b807a3e2338fdd0dc/stage',
             onCommand:({command,articles}) => {
 
@@ -48,7 +49,7 @@ const App = () => {
     },[])
     return (
         <div>
-            <div className ={classes.logoContainer}>
+            <div className = {classes.logoContainer}>
             {newsArticles.length ? (
           <div className={classes.infoContainer}>
             <div className={classes.card}><Typography variant="h5" component="h2">Try saying: <br /><br />Open article number [4]</Typography></div>
@@ -60,7 +61,7 @@ const App = () => {
             <NewsCards articles={newsArticles} activeArticles={activeArtucle}/>
             <h1>Alan Ai new Application</h1>
            
-            <NewsCards articles={newArticles}/>
+            <NewsCards articles= { newArticles }/>
             <Model isOpen={isOpen} setIsOpen={setIsOpen}/>
             {! newsArticles.length ?(
                 <div className={classes.footer}>
