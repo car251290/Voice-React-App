@@ -56,7 +56,7 @@ const App = () => {
             <div className={classes.card}><Typography variant="h5" component="h2">Try saying: <br /><br />Go back</Typography></div>
           </div>
         ) : null}
-         <img src="https://alan.app/voice/images/previews/preview.jpg" className={classes.alanLogo} alt="logo" />
+       
             </div>
             <NewsCards articles={newsArticles} activeArticles={activeArtucle}/>
             <h1>Alan Ai new Application</h1>
@@ -67,11 +67,10 @@ const App = () => {
                 <div className={classes.footer}>
                     <Typography variant = "body1" component="h2">
                         Created by 
-                        <a className={classes.lin} href=""></a>
-                        <a className={classes.lin} href=""></a>
+                        <a className={classes.link} href="https://www.linkedin.com/in/javiercarreno/"> Javier</a> 
+                       
                         </Typography>
-                        
-                        <img className={classes.image} src={logo} height="50px" alt="JSMastery logo" />
+                       
                         </div>
             ):null}            
         </div>
