@@ -30,3 +30,12 @@ Master grid and display in Card for the information to be a better display, in t
 
 ## NPM
 npm command to start the app and open it using the React tool.
+
+# Language 
+React(JS)
+
+# Requirements
+* Visual Studio
+* Alan Ai plataform
+* Macbook
+
