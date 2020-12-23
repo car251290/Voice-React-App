@@ -11,7 +11,7 @@ With Alan, you can go beyond the capabilities of touch and type interfaces and v
 Voice interfaces created with Alan are built once and deployed anywhere — you will not have to rebuild them for specific platforms. Alan offers simple SDKs to integrate with:
 
 # Web
-# iOS
+ this App can be also visiable in a web browser.
 
 ## This App has a back end code it was connect to the Alan Ai
 I use node.js for the success of the back end as well as json to get the information for this page because this resource will make it, to get the information, the code it in Alan Ai runnning for be a success to get the new and the voice controller understand the orden
